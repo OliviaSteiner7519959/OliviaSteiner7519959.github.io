@@ -38,9 +38,6 @@ $(function () {
      createPlatform(600,600,300,14)
      cratePlatform(600,400,150,15)
      
-
-
-
     // TODO 3 - Create Collectables
 
 
