@@ -32,9 +32,11 @@ $(function () {
 
     // TODO 2 - Create Platforms
      toggleGrid(); 
-     createPlatform(830, 400,200,15)
+     createPlatform(830,500,200,15)
      createPlatform(200, 300,150, 16)
      createPlatform(900, 130, 230, 17)
+     createPlatform(600,600,300,14)
+     cratePlatform(600,400,150,15)
      
 
 
